@@ -1,3 +1,4 @@
+[![Build and test of Java Project](https://github.com/WezhengAlumnoupm/ems2025_lab_1_3_ci_github_actions-wezheng/actions/workflows/main.yml/badge.svg)](https://github.com/WezhengAlumnoupm/ems2025_lab_1_3_ci_github_actions-wezheng/actions/workflows/main.yml)
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
